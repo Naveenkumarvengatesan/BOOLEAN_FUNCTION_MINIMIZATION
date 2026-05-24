@@ -66,9 +66,6 @@ endmodule
 
 <img width="575" height="553" alt="image" src="https://github.com/user-attachments/assets/ff6c788f-a7fe-4f7c-8a2f-ff18ba25dacf" />
 
-Result:
-
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
 
 
